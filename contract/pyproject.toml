@@ -1,0 +1,17 @@
+[project]
+name = "memory-contract"
+version = "0.1.0"
+license = "PolyForm-Noncommercial-1.0.0"
+description = "Shared vocabulary and settings for Memory-harness"
+requires-python = ">=3.11"
+dependencies = ["python-dotenv>=1,<2"]
+
+[build-system]
+requires = ["setuptools>=77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["memory_contract*"]
+
+[tool.setuptools.package-data]
+memory_contract = ["py.typed"]

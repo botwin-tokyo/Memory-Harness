@@ -1,0 +1,1 @@
+ALTER TABLE policy ADD COLUMN private_authority INTEGER NOT NULL DEFAULT 0;

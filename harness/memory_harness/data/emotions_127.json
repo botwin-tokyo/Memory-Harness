@@ -1,0 +1,764 @@
+[
+  {
+    "emotion_id": 1,
+    "name": "Amusement",
+    "family": "joy",
+    "description": "Lighthearted enjoyment prompted by something funny or entertaining."
+  },
+  {
+    "emotion_id": 2,
+    "name": "Cheerfulness",
+    "family": "joy",
+    "description": "A bright, upbeat sense of general well-being."
+  },
+  {
+    "emotion_id": 3,
+    "name": "Delight",
+    "family": "joy",
+    "description": "A vivid burst of pleasure or enjoyment."
+  },
+  {
+    "emotion_id": 4,
+    "name": "Happiness",
+    "family": "joy",
+    "description": "A broad state of positive emotional well-being."
+  },
+  {
+    "emotion_id": 5,
+    "name": "Joy",
+    "family": "joy",
+    "description": "Deep, wholehearted positive feeling."
+  },
+  {
+    "emotion_id": 6,
+    "name": "Elation",
+    "family": "joy",
+    "description": "Intense happiness accompanied by uplift and energy."
+  },
+  {
+    "emotion_id": 7,
+    "name": "Euphoria",
+    "family": "joy",
+    "description": "An exceptionally intense sense of pleasure and well-being."
+  },
+  {
+    "emotion_id": 8,
+    "name": "Excitement",
+    "family": "joy",
+    "description": "High-energy positive arousal about what is happening or coming."
+  },
+  {
+    "emotion_id": 9,
+    "name": "Enthusiasm",
+    "family": "joy",
+    "description": "Eager, energized engagement with an idea, activity, or goal."
+  },
+  {
+    "emotion_id": 10,
+    "name": "Playfulness",
+    "family": "joy",
+    "description": "A light, spontaneous desire to joke, explore, or have fun."
+  },
+  {
+    "emotion_id": 11,
+    "name": "Pleasure",
+    "family": "joy",
+    "description": "A direct sense of enjoyment or gratification."
+  },
+  {
+    "emotion_id": 12,
+    "name": "Satisfaction",
+    "family": "joy",
+    "description": "Pleasure arising from needs, standards, or goals being met."
+  },
+  {
+    "emotion_id": 13,
+    "name": "Contentment",
+    "family": "joy",
+    "description": "Quiet happiness with the present situation."
+  },
+  {
+    "emotion_id": 14,
+    "name": "Serenity",
+    "family": "joy",
+    "description": "Peaceful, undisturbed emotional calm."
+  },
+  {
+    "emotion_id": 15,
+    "name": "Relief",
+    "family": "joy",
+    "description": "Positive release after danger, uncertainty, pain, or pressure subsides."
+  },
+  {
+    "emotion_id": 16,
+    "name": "Gratitude",
+    "family": "joy",
+    "description": "Warm appreciation for help, kindness, or something valued."
+  },
+  {
+    "emotion_id": 17,
+    "name": "Hope",
+    "family": "joy",
+    "description": "Positive feeling that a desired future remains possible."
+  },
+  {
+    "emotion_id": 18,
+    "name": "Triumph",
+    "family": "joy",
+    "description": "Exultant satisfaction after overcoming difficulty or winning."
+  },
+  {
+    "emotion_id": 19,
+    "name": "Affection",
+    "family": "love",
+    "description": "Gentle positive feeling toward a person, animal, place, or object."
+  },
+  {
+    "emotion_id": 20,
+    "name": "Fondness",
+    "family": "love",
+    "description": "Warm, familiar liking built through positive association."
+  },
+  {
+    "emotion_id": 21,
+    "name": "Warmth",
+    "family": "love",
+    "description": "An open, welcoming sense of emotional closeness."
+  },
+  {
+    "emotion_id": 22,
+    "name": "Tenderness",
+    "family": "love",
+    "description": "Soft, protective care toward someone perceived as precious or vulnerable."
+  },
+  {
+    "emotion_id": 23,
+    "name": "Love",
+    "family": "love",
+    "description": "Deep attachment, care, and valuing of another."
+  },
+  {
+    "emotion_id": 24,
+    "name": "Passion",
+    "family": "love",
+    "description": "Intense emotional attraction or devotion."
+  },
+  {
+    "emotion_id": 25,
+    "name": "Devotion",
+    "family": "love",
+    "description": "Steady, committed love or loyalty."
+  },
+  {
+    "emotion_id": 26,
+    "name": "Attachment",
+    "family": "love",
+    "description": "Emotional bonding that creates a desire for closeness and continuity."
+  },
+  {
+    "emotion_id": 27,
+    "name": "Trust",
+    "family": "love",
+    "description": "Confidence in another's reliability, intentions, or safety."
+  },
+  {
+    "emotion_id": 28,
+    "name": "Security",
+    "family": "love",
+    "description": "A felt sense of safety, stability, and protection."
+  },
+  {
+    "emotion_id": 29,
+    "name": "Acceptance",
+    "family": "love",
+    "description": "Emotional openness to reality, oneself, or another person without resistance."
+  },
+  {
+    "emotion_id": 30,
+    "name": "Belonging",
+    "family": "love",
+    "description": "Feeling included, recognized, and part of a group or relationship."
+  },
+  {
+    "emotion_id": 31,
+    "name": "Intimacy",
+    "family": "love",
+    "description": "A sense of deep emotional closeness and mutual knowing."
+  },
+  {
+    "emotion_id": 32,
+    "name": "Admiration",
+    "family": "love",
+    "description": "Warm approval of another's qualities, actions, or achievements."
+  },
+  {
+    "emotion_id": 33,
+    "name": "Compassion",
+    "family": "love",
+    "description": "Concern for suffering combined with a desire to help."
+  },
+  {
+    "emotion_id": 34,
+    "name": "Empathy",
+    "family": "love",
+    "description": "Emotionally resonating with another person's experience."
+  },
+  {
+    "emotion_id": 35,
+    "name": "Sympathy",
+    "family": "love",
+    "description": "Caring sorrow or concern for another person's hardship."
+  },
+  {
+    "emotion_id": 36,
+    "name": "Reverence",
+    "family": "love",
+    "description": "Profound respect mixed with humility, devotion, or awe."
+  },
+  {
+    "emotion_id": 37,
+    "name": "Curiosity",
+    "family": "interest",
+    "description": "A desire to know, discover, or understand."
+  },
+  {
+    "emotion_id": 38,
+    "name": "Interest",
+    "family": "interest",
+    "description": "Focused positive engagement with something meaningful or stimulating."
+  },
+  {
+    "emotion_id": 39,
+    "name": "Attentiveness",
+    "family": "interest",
+    "description": "Emotionally engaged readiness to notice and respond."
+  },
+  {
+    "emotion_id": 40,
+    "name": "Fascination",
+    "family": "interest",
+    "description": "Powerful interest that holds attention almost effortlessly."
+  },
+  {
+    "emotion_id": 41,
+    "name": "Absorption",
+    "family": "interest",
+    "description": "Deep immersion in an experience or activity."
+  },
+  {
+    "emotion_id": 42,
+    "name": "Inspiration",
+    "family": "interest",
+    "description": "An uplifted urge to create, act, or pursue an ideal."
+  },
+  {
+    "emotion_id": 43,
+    "name": "Motivation",
+    "family": "interest",
+    "description": "Emotionally charged readiness to take action."
+  },
+  {
+    "emotion_id": 44,
+    "name": "Eagerness",
+    "family": "interest",
+    "description": "Energetic desire for an anticipated event or opportunity."
+  },
+  {
+    "emotion_id": 45,
+    "name": "Anticipation",
+    "family": "interest",
+    "description": "Emotional orientation toward something expected to happen."
+  },
+  {
+    "emotion_id": 46,
+    "name": "Expectancy",
+    "family": "interest",
+    "description": "A felt sense that a particular outcome is likely or imminent."
+  },
+  {
+    "emotion_id": 47,
+    "name": "Optimism",
+    "family": "interest",
+    "description": "Positive expectation that future outcomes will be favorable."
+  },
+  {
+    "emotion_id": 48,
+    "name": "Determination",
+    "family": "interest",
+    "description": "Firm emotional commitment to persist toward a goal."
+  },
+  {
+    "emotion_id": 49,
+    "name": "Ambition",
+    "family": "interest",
+    "description": "Strong desire to achieve, advance, or attain significance."
+  },
+  {
+    "emotion_id": 50,
+    "name": "Longing",
+    "family": "interest",
+    "description": "Persistent desire for something absent or distant."
+  },
+  {
+    "emotion_id": 51,
+    "name": "Yearning",
+    "family": "interest",
+    "description": "Deep, emotionally aching desire for connection, experience, or fulfillment."
+  },
+  {
+    "emotion_id": 52,
+    "name": "Craving",
+    "family": "interest",
+    "description": "Intense urge for a specific rewarding object or experience."
+  },
+  {
+    "emotion_id": 53,
+    "name": "Lust",
+    "family": "interest",
+    "description": "Strong bodily or sexual desire."
+  },
+  {
+    "emotion_id": 54,
+    "name": "Restlessness",
+    "family": "interest",
+    "description": "Unsettled activation driven by unmet desire or need for change."
+  },
+  {
+    "emotion_id": 55,
+    "name": "Surprise",
+    "family": "surprise",
+    "description": "A rapid response to something unexpected."
+  },
+  {
+    "emotion_id": 56,
+    "name": "Astonishment",
+    "family": "surprise",
+    "description": "Strong surprise that temporarily overwhelms ordinary understanding."
+  },
+  {
+    "emotion_id": 57,
+    "name": "Amazement",
+    "family": "surprise",
+    "description": "Intense surprise mixed with wonder or admiration."
+  },
+  {
+    "emotion_id": 58,
+    "name": "Wonder",
+    "family": "surprise",
+    "description": "Open, reflective amazement at something extraordinary or mysterious."
+  },
+  {
+    "emotion_id": 59,
+    "name": "Awe",
+    "family": "surprise",
+    "description": "Vastness-based wonder that can include admiration, fear, and humility."
+  },
+  {
+    "emotion_id": 60,
+    "name": "Bewilderment",
+    "family": "surprise",
+    "description": "Disoriented confusion caused by events that are hard to interpret."
+  },
+  {
+    "emotion_id": 61,
+    "name": "Confusion",
+    "family": "surprise",
+    "description": "Emotional discomfort from not understanding what is happening."
+  },
+  {
+    "emotion_id": 62,
+    "name": "Uncertainty",
+    "family": "surprise",
+    "description": "An unsettled state caused by incomplete or ambiguous information."
+  },
+  {
+    "emotion_id": 63,
+    "name": "Doubt",
+    "family": "surprise",
+    "description": "Uneasy lack of confidence in a belief, decision, or outcome."
+  },
+  {
+    "emotion_id": 64,
+    "name": "Hesitation",
+    "family": "surprise",
+    "description": "Momentary emotional reluctance before acting or deciding."
+  },
+  {
+    "emotion_id": 65,
+    "name": "Indecision",
+    "family": "surprise",
+    "description": "Tension created by difficulty choosing among alternatives."
+  },
+  {
+    "emotion_id": 66,
+    "name": "Ambivalence",
+    "family": "surprise",
+    "description": "Simultaneous conflicting feelings toward the same person or situation."
+  },
+  {
+    "emotion_id": 67,
+    "name": "Disbelief",
+    "family": "surprise",
+    "description": "Emotional resistance to accepting something as real or true."
+  },
+  {
+    "emotion_id": 68,
+    "name": "Shock",
+    "family": "surprise",
+    "description": "An intense, destabilizing reaction to sudden or extreme information."
+  },
+  {
+    "emotion_id": 69,
+    "name": "Disorientation",
+    "family": "surprise",
+    "description": "A disturbed sense of context, direction, identity, or meaning."
+  },
+  {
+    "emotion_id": 70,
+    "name": "Perplexity",
+    "family": "surprise",
+    "description": "Thoughtful confusion about a difficult or contradictory situation."
+  },
+  {
+    "emotion_id": 71,
+    "name": "Suspicion",
+    "family": "surprise",
+    "description": "Uneasy belief that something concealed, harmful, or dishonest may be occurring."
+  },
+  {
+    "emotion_id": 72,
+    "name": "Skepticism",
+    "family": "surprise",
+    "description": "Emotionally guarded reluctance to accept a claim without evidence."
+  },
+  {
+    "emotion_id": 73,
+    "name": "Unease",
+    "family": "fear",
+    "description": "Low-level discomfort suggesting that something may be wrong."
+  },
+  {
+    "emotion_id": 74,
+    "name": "Apprehension",
+    "family": "fear",
+    "description": "Anxious anticipation of a possible negative outcome."
+  },
+  {
+    "emotion_id": 75,
+    "name": "Nervousness",
+    "family": "fear",
+    "description": "Agitated uncertainty before a demanding or unfamiliar event."
+  },
+  {
+    "emotion_id": 76,
+    "name": "Anxiety",
+    "family": "fear",
+    "description": "Sustained alarm or tension without a fully immediate threat."
+  },
+  {
+    "emotion_id": 77,
+    "name": "Worry",
+    "family": "fear",
+    "description": "Repetitive concern about possible problems or losses."
+  },
+  {
+    "emotion_id": 78,
+    "name": "Dread",
+    "family": "fear",
+    "description": "Heavy anticipation of something threatening or painful."
+  },
+  {
+    "emotion_id": 79,
+    "name": "Fear",
+    "family": "fear",
+    "description": "Protective alarm in response to perceived danger."
+  },
+  {
+    "emotion_id": 80,
+    "name": "Terror",
+    "family": "fear",
+    "description": "Overwhelming fear in the face of extreme threat."
+  },
+  {
+    "emotion_id": 81,
+    "name": "Panic",
+    "family": "fear",
+    "description": "Acute fear accompanied by urgency and loss of control."
+  },
+  {
+    "emotion_id": 82,
+    "name": "Alarm",
+    "family": "fear",
+    "description": "Sudden activation caused by a sign of immediate danger."
+  },
+  {
+    "emotion_id": 83,
+    "name": "Insecurity",
+    "family": "fear",
+    "description": "Fear of inadequacy, rejection, instability, or loss."
+  },
+  {
+    "emotion_id": 84,
+    "name": "Vulnerability",
+    "family": "fear",
+    "description": "Feeling emotionally exposed and susceptible to harm."
+  },
+  {
+    "emotion_id": 85,
+    "name": "Helplessness",
+    "family": "fear",
+    "description": "Distress arising from believing one cannot change the situation."
+  },
+  {
+    "emotion_id": 86,
+    "name": "Powerlessness",
+    "family": "fear",
+    "description": "Painful awareness of lacking control, authority, or influence."
+  },
+  {
+    "emotion_id": 87,
+    "name": "Overwhelm",
+    "family": "fear",
+    "description": "Feeling unable to cope with the volume or intensity of demands."
+  },
+  {
+    "emotion_id": 88,
+    "name": "Horror",
+    "family": "fear",
+    "description": "Fear and revulsion in response to something deeply disturbing."
+  },
+  {
+    "emotion_id": 89,
+    "name": "Shyness",
+    "family": "fear",
+    "description": "Social unease involving self-conscious restraint around others."
+  },
+  {
+    "emotion_id": 90,
+    "name": "Paranoia",
+    "family": "fear",
+    "description": "Intense mistrust or fear that others intend harm."
+  },
+  {
+    "emotion_id": 91,
+    "name": "Irritation",
+    "family": "anger",
+    "description": "Mild anger produced by friction, discomfort, or repeated disturbance."
+  },
+  {
+    "emotion_id": 92,
+    "name": "Annoyance",
+    "family": "anger",
+    "description": "Displeasure toward an unwanted interruption, behavior, or inconvenience."
+  },
+  {
+    "emotion_id": 93,
+    "name": "Frustration",
+    "family": "anger",
+    "description": "Agitated anger caused by blocked goals or repeated failure."
+  },
+  {
+    "emotion_id": 94,
+    "name": "Impatience",
+    "family": "anger",
+    "description": "Tense irritation with delay, slowness, or lack of progress."
+  },
+  {
+    "emotion_id": 95,
+    "name": "Anger",
+    "family": "anger",
+    "description": "Mobilizing displeasure in response to threat, obstruction, or injustice."
+  },
+  {
+    "emotion_id": 96,
+    "name": "Rage",
+    "family": "anger",
+    "description": "Intense anger with a strong impulse toward forceful action."
+  },
+  {
+    "emotion_id": 97,
+    "name": "Fury",
+    "family": "anger",
+    "description": "Explosive, consuming anger at a perceived offense."
+  },
+  {
+    "emotion_id": 98,
+    "name": "Resentment",
+    "family": "anger",
+    "description": "Lingering anger about unfair treatment or unresolved injury."
+  },
+  {
+    "emotion_id": 99,
+    "name": "Bitterness",
+    "family": "anger",
+    "description": "Hardened resentment shaped by disappointment or prolonged hurt."
+  },
+  {
+    "emotion_id": 100,
+    "name": "Indignation",
+    "family": "anger",
+    "description": "Anger triggered by perceived unfairness or moral violation."
+  },
+  {
+    "emotion_id": 101,
+    "name": "Outrage",
+    "family": "anger",
+    "description": "Intense public- or values-oriented anger at something intolerable."
+  },
+  {
+    "emotion_id": 102,
+    "name": "Hostility",
+    "family": "anger",
+    "description": "Adversarial anger directed toward a person, group, or situation."
+  },
+  {
+    "emotion_id": 103,
+    "name": "Contempt",
+    "family": "anger",
+    "description": "A dismissive sense that someone or something is beneath respect."
+  },
+  {
+    "emotion_id": 104,
+    "name": "Disgust",
+    "family": "anger",
+    "description": "Strong aversion toward something perceived as contaminating or offensive."
+  },
+  {
+    "emotion_id": 105,
+    "name": "Revulsion",
+    "family": "anger",
+    "description": "Powerful impulse to withdraw from something repellent."
+  },
+  {
+    "emotion_id": 106,
+    "name": "Hatred",
+    "family": "anger",
+    "description": "Enduring, intense aversion and hostility."
+  },
+  {
+    "emotion_id": 107,
+    "name": "Jealousy",
+    "family": "anger",
+    "description": "Fearful anger about losing a valued bond or status to a rival."
+  },
+  {
+    "emotion_id": 108,
+    "name": "Envy",
+    "family": "anger",
+    "description": "Painful resentment of another person's advantage or possession."
+  },
+  {
+    "emotion_id": 109,
+    "name": "Disappointment",
+    "family": "sadness",
+    "description": "Sadness caused by an outcome falling below hope or expectation."
+  },
+  {
+    "emotion_id": 110,
+    "name": "Sadness",
+    "family": "sadness",
+    "description": "Low-energy emotional pain related to loss, hurt, or unmet need."
+  },
+  {
+    "emotion_id": 111,
+    "name": "Melancholy",
+    "family": "sadness",
+    "description": "Quiet, reflective sadness that may lack a single clear cause."
+  },
+  {
+    "emotion_id": 112,
+    "name": "Sorrow",
+    "family": "sadness",
+    "description": "Deep sadness connected to suffering or misfortune."
+  },
+  {
+    "emotion_id": 113,
+    "name": "Grief",
+    "family": "sadness",
+    "description": "Profound emotional response to death, separation, or major loss."
+  },
+  {
+    "emotion_id": 114,
+    "name": "Anguish",
+    "family": "sadness",
+    "description": "Severe emotional suffering that feels difficult to bear."
+  },
+  {
+    "emotion_id": 115,
+    "name": "Despair",
+    "family": "sadness",
+    "description": "Intense suffering accompanied by the collapse of hope."
+  },
+  {
+    "emotion_id": 116,
+    "name": "Hopelessness",
+    "family": "sadness",
+    "description": "The belief-feeling that improvement or escape is no longer possible."
+  },
+  {
+    "emotion_id": 117,
+    "name": "Loneliness",
+    "family": "sadness",
+    "description": "Pain arising from insufficient connection, recognition, or companionship."
+  },
+  {
+    "emotion_id": 118,
+    "name": "Emptiness",
+    "family": "sadness",
+    "description": "A hollow absence of meaning, feeling, connection, or vitality."
+  },
+  {
+    "emotion_id": 119,
+    "name": "Nostalgia",
+    "family": "sadness",
+    "description": "Bittersweet longing for a valued past."
+  },
+  {
+    "emotion_id": 120,
+    "name": "Regret",
+    "family": "sadness",
+    "description": "Sadness about a choice, action, or missed opportunity."
+  },
+  {
+    "emotion_id": 121,
+    "name": "Remorse",
+    "family": "sadness",
+    "description": "Painful regret focused on harm one has caused."
+  },
+  {
+    "emotion_id": 122,
+    "name": "Guilt",
+    "family": "sadness",
+    "description": "Distress from believing one's behavior violated a duty or value."
+  },
+  {
+    "emotion_id": 123,
+    "name": "Shame",
+    "family": "sadness",
+    "description": "Painful belief that the self is flawed, exposed, or unworthy."
+  },
+  {
+    "emotion_id": 124,
+    "name": "Embarrassment",
+    "family": "sadness",
+    "description": "Brief self-conscious discomfort after a social mistake or exposure."
+  },
+  {
+    "emotion_id": 125,
+    "name": "Humiliation",
+    "family": "sadness",
+    "description": "Intense shame caused by being degraded or publicly diminished."
+  },
+  {
+    "emotion_id": 126,
+    "name": "Boredom",
+    "family": "sadness",
+    "description": "Low-arousal dissatisfaction caused by insufficient meaning or stimulation."
+  },
+  {
+    "emotion_id": 127,
+    "name": "Neutrality",
+    "family": "neutral",
+    "description": "An emotionally balanced baseline with no strong positive or negative pull."
+  }
+]

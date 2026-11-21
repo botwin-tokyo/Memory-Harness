@@ -1,0 +1,1 @@
+ALTER TABLE preferences ADD COLUMN facets TEXT NOT NULL DEFAULT '[]';
